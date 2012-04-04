@@ -1,0 +1,12 @@
+MYMETA.json
+MYMETA.yml
+Module-Install-Authority*
+META.yml
+Makefile
+inc
+Makefile.old
+MANIFEST
+MANIFEST.bak
+pm_to_blib
+blib
+
