@@ -1,3 +1,6 @@
+0.02
+  - Re-pack to remove debugging code from the installer.
+
 0.01
   - Initial release
 

@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use base qw/Module::Install::Base/;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 $VERSION = eval $VERSION;
 
 sub authority {
