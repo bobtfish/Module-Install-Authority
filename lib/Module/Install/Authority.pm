@@ -23,7 +23,7 @@ Module::Install::Authority - Add an x_authority key to META.yml
     use inc::Module::Install;
     name 'Example';
     all_from 'lib/Example.pm'
-    authority 'BOBTFISH';
+    authority 'cpan:BOBTFISH';
     WriteAll;
 
 =head1 DESCRIPTION
