@@ -24,7 +24,7 @@ if ($Module::Install::AUTHOR) {
     require 'lib/Module/Install/Authority.pm';
 }
 
-authority 'BOBTFISH';
+authority 'cpan:BOBTFISH';
 
 license 'perl';
 
