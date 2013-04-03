@@ -1,3 +1,4 @@
+0.03
  - Fix docs and generated metadata to note that you should
    be saying cpan:AUTHORNAME in your x_authority key.
    (miyagawa)
